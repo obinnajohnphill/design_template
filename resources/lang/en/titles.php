@@ -2,12 +2,12 @@
 
 return [
 
-    'app'			        => 'Template Design',
-    'app2'			       => 'Template Design',
+    'app'			        => 'Design Template',
+    'app2'			       => 'Design Template',
     'home'			       => 'Home',
     'login'			      => 'Login',
     'logout'		      => 'Logout',
-    'register'		    => 'Template Design Register',
+    'register'		    => 'Design Template Register',
     'resetPword'	   => 'Reset Password',
     'toggleNav'		   => 'Toggle Navigation',
     'profile'		     => 'Profile',
@@ -18,9 +18,6 @@ return [
 
     'activation'	=> 'Registration Started  | Activation Required',
     'exceeded'		 => 'Activation Error',
-
-    'editProfile'	  => 'Edit Profile',
-    'createProfile'	=> 'Create Profile',
     'adminUserList'	=> 'Users',
     'adminEditUsers'=> 'Edit Users',
     'adminNewUser'	 => 'Add User',

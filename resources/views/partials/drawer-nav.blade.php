@@ -8,12 +8,12 @@
 @endphp
 <div class="demo-drawer mdl-layout__drawer mdl-color--blue-grey-900 mdl-color-text--blue-grey-50">
 	<a href="/" class="dashboard-logo mdl-button mdl-js-button mdl-js-ripple-effect mdl-color--primary mdl-color-text--white">
-		Laravel
+		Design
 			<i class="material-icons " role="presentation">whatshot</i>
-		Material
+		Template
 	</a>
 	<header class="demo-drawer-header">
-		<img id="drawer_avatar" src="{{ $userGravImage }}" alt="{{ Auth::user()->name }}" class="demo-avatar mdl-list__item-avatar">
+		<img id="drawer_avatar" src="{{$userGravImage}}" alt="{{ Auth::user()->name }}" class="demo-avatar mdl-list__item-avatar">
 		<span itemprop="image" style="display:none;">{{ Gravatar::get(Auth::user()->email) }}</span>
 		<!-- <i class="material-icons mdl-list__item-avatar">face</i> -->
 		<div class="demo-avatar-dropdown">
