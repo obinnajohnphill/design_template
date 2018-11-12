@@ -2,12 +2,12 @@
 
 return [
 
-    'app'			        => 'Laravel MDL 2.0',
-    'app2'			       => 'Laravel MDL 2.0',
+    'app'			        => 'Template Design',
+    'app2'			       => 'Template Design',
     'home'			       => 'Home',
     'login'			      => 'Login',
     'logout'		      => 'Logout',
-    'register'		    => 'Register',
+    'register'		    => 'Template Design Register',
     'resetPword'	   => 'Reset Password',
     'toggleNav'		   => 'Toggle Navigation',
     'profile'		     => 'Profile',
