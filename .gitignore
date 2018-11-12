@@ -24,7 +24,9 @@ Thumbs.db
 /.idea/*
 
 ### DIFFERENT TYPE OF MASTER CONFIGS ###
+
 .env
+
 composer.lock
 
 ### ASSET EXCLUSIONS ###
