@@ -13,7 +13,7 @@
 		Template
 	</a>
 	<header class="demo-drawer-header">
-		<img id="drawer_avatar" src="{{$userGravImage}}" alt="{{ Auth::user()->name }}" class="demo-avatar mdl-list__item-avatar">
+		<img id="drawer_avatar" src="{{URL::asset('/images/default-user-bg.png')}}" alt="{{ Auth::user()->name }}" class="demo-avatar mdl-list__item-avatar">
 		<span itemprop="image" style="display:none;">{{ Gravatar::get(Auth::user()->email) }}</span>
 		<!-- <i class="material-icons mdl-list__item-avatar">face</i> -->
 		<div class="demo-avatar-dropdown">
