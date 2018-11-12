@@ -25,7 +25,6 @@ return [
     'labelCreatedAt'         => 'Created At:',
     'labelUpdatedAt'         => 'Updated At:',
     'labelIpEmail'           => 'Email Signup IP:',
-    'labelIpEmail'           => 'Email Signup IP:',
     'labelIpConfirm'         => 'Confirmation IP:',
     'labelIpSocial'          => 'Socialite Signup IP:',
     'labelIpAdmin'           => 'Admin Signup IP:',
