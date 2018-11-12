@@ -13,7 +13,7 @@
                     <div class="demo-card-full mdl-card mdl-shadow--2dp">
                         <div class="mdl-card__title mdl-color--primary mdl-color-text--white">
                             <h2 class="mdl-card__title-text text-center full-span block">
-                                {{ trans('titles.register') }}
+                                Template Design Register
                             </h2>
                         </div>
                         <div class="mdl-card__supporting-text ">

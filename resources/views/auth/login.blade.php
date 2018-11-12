@@ -12,7 +12,7 @@
                 <div class="mdl-card__title mdl-color--primary mdl-color-text--white">
                     <h2 class="mdl-card__title-text text-center full-span block">
 
-                        {{ trans('titles.app') }}
+                        Template Design Login
 
                     </h2>
                 </div>
