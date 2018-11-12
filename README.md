@@ -11,3 +11,12 @@
 5. Run php artisan migrate
 
 6. Run php artisan db:seed
+
+
+Default Login Details:
+
+Normal User: username (user@user.com) password (password)
+
+Admin User: username (admin@admin.com) password (password)
+
+
