@@ -10,7 +10,7 @@
 
 5. Login with test account:
       
-       Username         Password
-User:  user@user.com    password <br>
-Admin: admin@admin.com  password
+            Username             Password
+User:       user@user.com        password <br>
+Admin:      admin@admin.com      password
 
