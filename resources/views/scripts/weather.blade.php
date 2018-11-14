@@ -1,7 +1,7 @@
 <script type="text/javascript">
 
     $(document).ready(function() {
-      var userLocation = '{{ Auth::user()->profile->location }}' ? '{{ Auth::user()->profile->location }}' : 'Portland, OR, United States';
+      var userLocation = '{{ Auth::user()->profile->location }}' ? '{{ Auth::user()->profile->location }}' : 'Portland, OR, Telford,UK';
       loadWeather(userLocation);
     });
 
